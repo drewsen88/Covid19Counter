@@ -339,7 +339,7 @@ class getData : ObservableObject{
 }
 
 
-var country = ["usa","italy","spain","australia","india","china","canada","UK"]
+var country = ["usa","italy","spain","australia","india","china","canada","UK","iran"]
 
 struct Indicator : UIViewRepresentable {
     
